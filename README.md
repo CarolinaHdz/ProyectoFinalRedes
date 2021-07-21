@@ -61,7 +61,7 @@ Paso 2. Debe poner el link del repositorio y las credenciales del mismo,
 
 * Christian Cordero Fallas B72283
 
-* Beatriz Leiva B
+* Beatriz Leiva Rojas B53820
 
 ## Wiki 📖
 
@@ -84,9 +84,9 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 [corderofallasc]( https://github.com/corderofallasc)
 
-* **Beatriz Leiva**
+* **Beatriz Leiva Rojas**
 
-[Bea]( https://github.com/corderofallasc)
+[Bea1197]( https://github.com/Bea1197)
 
 
 ## Licencia 📄
