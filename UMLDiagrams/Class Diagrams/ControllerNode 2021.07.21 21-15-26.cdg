@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="ControllerNode">
+  <ClassDiagramComponents>
+    <Class name="ControllerNode" package="Controller" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="run" returnType="void" visibility="public"/>
+        <Method name="convertBytesInFile" returnType="void" visibility="public">
+          <Argument type="byte[]" name="array"/>
+          <Argument type="String" name="ruta"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="DiskNodes" package="Controller" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Raid5" package="Controller" visibility="public" xPosition="620.0" yPosition="20.0">
+      <Fields>
+        <Field name="PARITY_MARKER" type="int" visibility="public" isStatic="true" isFinal="true"/>
+        <Field name="DATA_MARKER" type="int" visibility="public" isStatic="true" isFinal="true"/>
+        <Field name="disks" type="File" visibility="private"/>
+        <Field name="streams" type="FileOutputStream" visibility="private"/>
+        <Field name="mode" type="int" visibility="private"/>
+        <Field name="MAX_MODE" type="int" visibility="private" isStatic="true" isFinal="true"/>
+        <Field name="buffer" type="int[]" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="File" name="disks"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="writerMarker" returnType="void" visibility="private"/>
+        <Method name="write" returnType="void" visibility="public">
+          <Argument type="int" name="i"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Main" package="tareaprogramada2.controllernode" visibility="public" xPosition="920.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
