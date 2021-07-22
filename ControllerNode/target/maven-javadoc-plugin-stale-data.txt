@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/ProyectoFinalRedes/ControllerNode/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/ProyectoFinalRedes/ControllerNode/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ControllerNode 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/ProyectoFinalRedes/ControllerNode/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ControllerNode 1.0-SNAPSHOT API'
+Controller
+tareaprogramada2.controllernode
+'C:/ProyectoFinalRedes/ControllerNode/src/main/java/Controller/ControllerNode.java'
+'C:/ProyectoFinalRedes/ControllerNode/src/main/java/Controller/DiskNodes.java'
+'C:/ProyectoFinalRedes/ControllerNode/src/main/java/Controller/Raid5.java'
+'C:/ProyectoFinalRedes/ControllerNode/src/main/java/tareaprogramada2/controllernode/Main.java'
+C:\ProyectoFinalRedes\ControllerNode\src\main\java = 1626552329084
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\allclasses-frame.html = 1626921282488
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\allclasses-noframe.html = 1626921282490
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\constant-values.html = 1626921282350
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\deprecated-list.html = 1626921282484
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\help-doc.html = 1626921282504
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\index-all.html = 1626921282465
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\index.html = 1626921282494
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\overview-frame.html = 1626921282288
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\overview-summary.html = 1626921282499
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\overview-tree.html = 1626921282452
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\package-list = 1626921282282
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\script.js = 1626921282512
+C:\ProyectoFinalRedes\ControllerNode\target\site\apidocs\stylesheet.css = 1626921282509
