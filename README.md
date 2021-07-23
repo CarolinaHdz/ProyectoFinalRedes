@@ -95,6 +95,14 @@ Este proyecto no cuenta con ninguna licencia
 
 ## Expresiones de Gratitud 🎁
 
-* Agradecimiento a 
+* Agradecimiento a https://es.stackoverflow.com/questions/63252/c%c3%b3mo-crear-un-programa-en-java-para-dividir-un-archivo-cualquiera que su código se implento en proyecto
 
-* Agradecimiento a 
+* Agradecimiento a https://programmerclick.com/article/1037857638/ que se uso su código como parte de la solución del proyecto
+
+* Agradecimiento a https://www.delftstack.com/es/howto/java/how-to-convert-file-to-a-byte-array-in-java/ Cómo convertir un archivo en un array de bytes en Java 
+
+* Agradecimiento a http://javainutil.blogspot.com/2013/03/java-convertir-un-array-de-bytes-un.html#:~:text=Para%20convertir%20un%20arreglo%20de,se%20le%20da%20como%20par%C3%A1metro. Java: Convertir un Array de Bytes a un Archivo
+
+
+
+
